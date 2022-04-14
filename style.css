@@ -5,9 +5,11 @@
 }
 
 body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	height: 100vh;
+	width: 50px;
 	font-family: 'Ubuntu', sans-serif;
-	overflow: hidden;
-	color: #fff;
 	background: royalblue;
 }
